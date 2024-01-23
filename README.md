@@ -1,8 +1,5 @@
 # MeriSkill_Diabetes_prediction_system
 
-MeriSKILL Internship
-The MeriSkill data analysis internship spans 3-6 months, offering practical experience to students and recent grads in the data analysis realm. Participants engage in real-time projects, collaborate with seasoned professionals, and stay abreast of the latest trends and technologies. Key tasks include data collection, cleaning, statistical analysis, model building, data visualization, and presenting insights to stakeholders. Interns gain exposure to tools like Python, SQL, and Tableau, making this internship ideal for those aspiring to a successful career in data analysis. It equips participants with essential skills and experience for the rapidly growing field.
-
 Project Description
 This project presents a predictive model for diagnosing diabetes based on the analysis of diagnostic measurements. The dataset utilized is sourced from the National Institute of Diabetes and Digestive and Kidney Diseases, specifically focusing on females aged at least 21 years old of Pima Indian heritage. The primary objective is to predict the likelihood of a patient having diabetes through the examination of various medical predictor variables.
 
